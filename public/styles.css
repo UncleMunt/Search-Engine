@@ -1,0 +1,33 @@
+/* Define body styles */
+body {
+  background-color: #b9a3a3; /* Set the background color to a light brown */
+  font-family: Arial, sans-serif; /* Use the Arial or sans-serif font family */
+  font-size: 16px; /* Set the font size to 16 pixels */
+}
+
+/* Define heading styles */
+h1, h2 {
+  color: #333; /* Set the color of the headings to dark gray */
+}
+
+h2 {
+  font-size: 24px; /* Set the font size of the second-level headings to 24 pixels */
+}
+
+/* Define paragraph styles */
+p {
+  margin: 0 0 10px; /* Add margin to the bottom of paragraphs */
+}
+
+/* Define unordered list styles */
+ul {
+  list-style: none; /* Remove the default bullet points from unordered lists */
+  padding: 0; /* Remove padding from the unordered lists */
+  margin: 0 0 10px; /* Add margin to the bottom of unordered lists */
+}
+
+/* Define list item styles */
+li {
+  display: inline-block; /* Display list items as inline-block elements */
+  margin-right: 10px; /* Add right margin to list items */
+}
